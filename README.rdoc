@@ -11,7 +11,7 @@ Approximate entropy (ApEn), Sample entropy(SampEn), Multiscale Entropy(MSE).
 
 
 == Help & Documentation
-For more information about installing, running and configuring Neo4jRubyExamples
+For more information about algorithms, installing, running and configuring TimeSeriesAndEntropy
 including a list of known issues and troubleshooting information, 
 refer to: http://wiki.github.com/abhishektiwari/TimeSeriesAndEntropy/
 
